@@ -2,7 +2,7 @@
 layout: post
 title:  "Sending images to OpenAI via the C# SDK"
 date:   2024-06-19 12:00:00 +0300
-categories: c#, openai
+categories: snippets
 ---
 While preparing a training for a customer, one of the examples I want to show was how you can send images to the OpenAI ChatCompletion endpoint.
 I could not find any examples online how to do it in C# so I delft into the sourcecode, try to understand how it should be done.
