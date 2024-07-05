@@ -23,7 +23,7 @@ You get new results, some might be the same and others might be new and more rel
 Imagine you can bring those results together and give you result page with the best results of both queries!
 
 ### Simplistic Process Flow
-![RRF Process Flow](images/rrf.png)
+![RRF Process Flow]({{site.url}}/images/rrf.png)
 
 Well that is what RRF is.
 
