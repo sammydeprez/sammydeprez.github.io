@@ -23,7 +23,7 @@ You get new results, some might be the same and others might be new and more rel
 Imagine you can bring those results together and give you result page with the best results of both queries!
 
 ### Simplistic Process Flow
-![RRF Process Flow](../images/rrf.png)
+![RRF Process Flow](images/rrf.png)
 
 Well that is what RRF is.
 
@@ -127,7 +127,7 @@ options.AddDataSource(new AzureSearchChatDataSource()
     Endpoint = new Uri("YOUR_SEARCH_ENDPOINT"),
     IndexName = "YOUR_INDEX_NAME",
     InScope = false,
-    VectorizationSource = DataSourceVectorizer.FromDeploymentName(""YOUR_EMBEDDING_DEPLOYMENT_NAME"),
+    VectorizationSource = DataSourceVectorizer.FromDeploymentName("YOUR_EMBEDDING_DEPLOYMENT_NAME"),
     QueryType = DataSourceQueryType.Vector,
     Authentication = DataSourceAuthentication.FromApiKey("YOUR_SEARCH_API_KEY"),
     FieldMappings = new DataSourceFieldMappings()
@@ -145,7 +145,7 @@ options.AddDataSource(new AzureSearchChatDataSource()
 ChatCompletion completion = chatClient.CompleteChat(
     options: options,
     messages: [
-        new UserChatMessage(""what is reciprocal rank fusion"")
+        new UserChatMessage("what is reciprocal rank fusion")
     ]);
 {% endhighlight %}
 
