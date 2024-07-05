@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Reciprocal Rank Fusion (RRF), Euhm what?"
-date:   2024-07-05 12:00:00 +0300
+date:   2024-07-05 07:00:00 +0300
 categories: blog
 ---
 Yes you heard me well, I said *Reciprocal Rank Fusion*. It is a mouth full, but such an important method to improve your search results when using RAG. In below article I will explain what it is and how you can make use of it when using Azure AI Search.
