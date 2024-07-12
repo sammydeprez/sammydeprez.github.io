@@ -56,5 +56,6 @@ In this example, replace `<your-endpoint>`, `<your-api-key>`, and `<your-documen
 
 Query fields are indeed a hidden gem within the Document Intelligence service, offering a powerful, flexible, and cost-effective way to extract specific information from a wide variety of documents.
 
-: [Query field extraction - Document Intelligence](https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/concept-query-fields?view=doc-intel-4.0.0)
-: [Add-on capabilities - Document Intelligence](https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/concept-add-on-capabilities?view=doc-intel-4.0.0)
+## Documentation
+- [Query field extraction - Document Intelligence](https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/concept-query-fields?view=doc-intel-4.0.0)
+- [Add-on capabilities - Document Intelligence](https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/concept-add-on-capabilities?view=doc-intel-4.0.0)
