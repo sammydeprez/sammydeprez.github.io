@@ -33,7 +33,7 @@ var client = new DocumentIntelligenceClient(
 
 AnalyzeDocumentContent content = new AnalyzeDocumentContent()
 {
-    UrlSource = new Uri(<your-document-url>)
+    UrlSource = new Uri("<your-document-url>")
 };
 
 // Enabling the query fields feature
