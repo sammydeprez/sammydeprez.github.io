@@ -31,6 +31,8 @@ github_username:  sammydeprez
 theme: minima
 plugins:
   - jekyll-feed
+google_analytics: G-1D3NRXS0P5
+show_excerpts: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
