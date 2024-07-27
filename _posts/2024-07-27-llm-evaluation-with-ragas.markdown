@@ -153,6 +153,7 @@ Although this is great for reporting. But in case you want to go more in details
 pd.DataFrame(result.scores)
 ```
 **Output:**
+
 | faithfulness | answer_correctness | context_recall | context_precision |
 | ------------ | ------------------ | -------------- | ----------------- |
 | 1.000        | 1.000000           | 1.0            | 1.000000          |
