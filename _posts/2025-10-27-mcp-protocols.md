@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Picking the Right MCP Protocol"
-date:   2024-10-27 22:00:00 +0300
+date:   2025-10-27 22:00:00 +0300
 categories: blog
 ---
 
